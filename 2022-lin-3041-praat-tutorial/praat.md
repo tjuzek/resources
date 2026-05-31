@@ -6,7 +6,7 @@ A new window opens. In your first session, go through the menus. Go to Pitch > u
 
 Now you should see something like this: 
 
-![praatoverview](https://github.com/tjuzek/introduction_linguistics/blob/main/praat_overview.jpg?raw=true)
+![praatoverview](praat_overview.jpg)
 
 The top half of the screen is the wave form. Each black 'blob' represents a word. The bottom half is the spectrogram and will become visible once we zoom in. 
 
@@ -15,7 +15,7 @@ If you have problems with your sound, look here under Section 4: https://www.fon
 
 To zoom into your selection, press the "sel" button at the bottom left corner. You should now see something like this: 
 
-![closeup](https://github.com/tjuzek/introduction_linguistics/blob/main/close_up.jpg?raw=true)
+![closeup](close_up.jpg)
 
 The first step of taking your measurements is always the same: 
 
@@ -33,24 +33,24 @@ The lowest resonant frequency is called F1 / first formant, the second lowest F2
 
 Praat takes measurements at intervals. In each batch of measurements, F1 is represented by the lowest red dot, and F2 by the lowest white dot. The following picture illustrates this. 
 
-![measurements](https://github.com/tjuzek/introduction_linguistics/blob/main/measurements.jpg?raw=true)
+![measurements](measurements.jpg)
 
 Some of Praat's measurements are better than others (for various reasons). This brings us back to to 'stable' measurements. 'Stable' means that changes in frequency between one measurement and the next are limited. For F1, a delta beyond 100Hz for F1 is already large. For F2, the delta should not exceed 200Hz, max. 250Hz. 
 
 The following image illustrates some stable vs some jittery measurements. We want to avoid jitter. 
 
-![goodbad](https://github.com/tjuzek/introduction_linguistics/blob/main/good_bad_signal.jpg?raw=true)
+![goodbad](good_bad_signal.jpg)
 
 We can start taking measurements. In doing so, we need to distinguish two cases: monophtongs and diphtongs. 
 
 For monophtongs, the syllable / word we measure contains a single vowel, e.g. \<beat\> as /bi:t/. We can take a manual measurement from the middle of the strong and stable signal. We take a measurement by left-clicking on a good F1 and/or F2 dot, this will give us a Hz value (in red) on the left hand site; "good" dots to measure from are illustrated below. 
 
-![monogood](https://github.com/tjuzek/introduction_linguistics/blob/main/mono_good_region.jpg?raw=true)
+![monogood](mono_good_region.jpg)
 
 Or we select the entire strong and stable signal and use the option: Formants > Get First/Second Formant. 
 
 For diphtongs, the syllable / word we measure contains two vowels, e.g. \<bait\> as /bejt/. For the first vowel, e.g. /e/, we take a measurements from the first four dots of the strong and reliable signal. For the second vowel /j/, we take a measurement from the last four dots. Alternatively, we make a selection of a few dots and use the Formant menu again. 
   
-![digood](https://github.com/tjuzek/introduction_linguistics/blob/main/diph_good_region.jpg?raw=true)
+![digood](diph_good_region.jpg)
 
 Collect the measurements for the different words and submit your findings. 
