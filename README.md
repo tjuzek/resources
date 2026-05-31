@@ -27,6 +27,8 @@ Licences are declared per project (per folder). Unless a folder says otherwise:
 All projects currently use this default. If a project's licence differs, its
 folder will say so.
 
+If you reuse these materials, a credit or a link back is appreciated, though not required.
+
 ## AI Assistance
 
 Repository polished with Claude Code.
