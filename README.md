@@ -8,7 +8,7 @@ Each top-level folder is a self-contained project, prefixed with its year.
 ## Contents
 
 - [`2022-lin-3041-praat-tutorial/`](2022-lin-3041-praat-tutorial): a hands-on
-  Praat tutorial (reading spectrograms, formants and pitch), from the LIN 3041
+  Praat tutorial (reading spectrograms, formants, and pitch), from the LIN 3041
   phonetics course.
 - [`2022-ai-outperforms/`](2022-ai-outperforms): a December 2022 essay,
   "ChatGPT has just passed one of my intro-to-linguistics assignments".
